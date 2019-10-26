@@ -1,0 +1,21 @@
+0: Wooden Sword, Cut, Slash
+1: Wooden Bow, Quick Shot, Shot
+2: Wooden Dagger, Stab, Slice
+3: Old Sword, Cut, Slash
+4: Old Bow, Quick Shot, Shot
+5: Old Dagger, Stab, Slice
+6: Rusty Sword, Cut, Slash
+7: Rusty Bow, Quick Shot, Shot
+8: Rusty Dagger, Cut, Slice
+9: Iron Sword, Cut, Slash
+10: Iron Bow, Quick Shot, Shot
+11: Iron Dagger, Cut, Slice
+12: Steel Sword, Cut, Slash
+13: Steel Bow, Quick Shot, Shot
+14: Steel Dagger, Cut, Slice
+15: Silver Sword, Cut, Slash
+16: Silver Bow, Quick Shot, Shot
+17: Silver Dagger, Cut, Slice
+18: Golden Sword, Cut, Slash
+19: Golden Bow, Quick Shot, Shot
+20: Golden Dagger, Cut, Slice

@@ -1,0 +1,13 @@
+Enemies is a (currently) text-based game in the making. So far the main pieces of logic are there for the big portions.
+Battles will be between the enemy, the hero and the sidekick. The sidekick has the ability to steal powers
+from defeated enemies, to be used later in the same. There is currently a very basic leveling system which will be
+expanded upon.
+
+
+Action Items:
+
+1 - Write out the data files for Weapons, Attacks, and Enemies lists for the HashMaps
+2 - Add in exception handlers for basically every class
+3 - Adjust the weapon and attack selections to use buffered readers/data instead
+4 - implement a save feature
+5 - Graphics
